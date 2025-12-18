@@ -1,7 +1,6 @@
 # Task 3: To-Do List Application
 # InternOrbit Python Programming Internship
 
-
 tasks = []   
 
 def add_task():
